@@ -1,5 +1,5 @@
 # https-tenmatsukasa.com-
-https://tenmatsukasa.com/
+https://tenmatsukasa.com
 hi
 
 Me when I accidentally bought the wrong domain
